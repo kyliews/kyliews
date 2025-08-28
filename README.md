@@ -58,7 +58,7 @@ tenho experiência remunerada em python e back-end. apaixonada por projetos de i
 
 ## "fala comigo bebê"
 
-estou sempre aberta a conversar sobre tecnologia, diversidade e oportunidades de colaboração!
+vamo trocar uma ideia sobre tecnologia, diversidade, cachorros, games ou até sobre oportunidades?
 
 - 📧 **email:** kyliewilliam.ads@gmail.com
 - 💼 **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
