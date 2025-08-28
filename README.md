@@ -56,13 +56,13 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 
 **📚 outras competências técnicas:**
 
-**👨‍💻 desenvolvimento & dados:**
+**desenvolvimento & dados:**
 `ciência de dados` `git` `streamlit` `plotly` `pandas` `css` `html` `pyqt` `pyside6`
 
-**🔐 segurança & qualidade:**
+**segurança & qualidade:**
 `criptografia` `lgpd` `ci/cd` `ux`
 
-**🛠️ ferramentas & produtividade:**
+**ferramentas & produtividade:**
 `excel` `trello`
 
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
