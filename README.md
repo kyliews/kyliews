@@ -3,7 +3,6 @@
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
   
 <div align="center">
-  <img src="https://github.com/kyliews/kyliews/blob/main/src/apolo1.gif?raw=true" width="300px" />
   <img src="https://github.com/kyliews/kyliews/blob/main/src/apolo2.gif?raw=true" width="300px" />
 </div>
 
