@@ -54,7 +54,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
 
-**📚 outras competências técnicas:**
+**outras competências técnicas:**
 
 **desenvolvimento & dados:**
 `ciência de dados` `git` `streamlit` `plotly` `pandas` `css` `html` `pyqt` `pyside6`
@@ -72,10 +72,10 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 
 vamo trocar uma ideia sobre tecnologia, diversidade, cachorros, games ou até sobre oportunidades?
 
-- 📧 **email:** kyliewilliam.ads@gmail.com
-- 💼 **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
-- 🌐 **disponível para viagens:** são paulo ou goiânia
+-  **email:** kyliewilliam.ads@gmail.com
+-  **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
+-  **disponível para viagens:** são paulo ou goiânia
 
 ---
 
-⭐️ **do perfil de** [kylie santos](https://github.com/kyliews)
+ **do perfil de** [kylie santos](https://github.com/kyliews)
