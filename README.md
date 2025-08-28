@@ -17,9 +17,10 @@ tenho experiência remunerada em python e back-end. apaixonada por tecnologia in
 
 - 🏳️‍⚧️ **mulher trans** orgulhosa da minha trajetoria na tecnologia
 -  **1º lugar no hackapride 2025** – citi/ufpe
--  cursando **tecnólogo em segurança da informação** na cesar school
+-  primeiro período: **tecnólogo em segurança da informação** na cesar school
 - **engajada em comunidades** de mulheres e diversidade na tecnologia
 -  mãe de pet e nerd da tecnologia
+-  dois semestres de **engenharia de software** na faculdade damas (bacharelado)
 
 ##  tech stack
 
