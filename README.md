@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="20px" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="12px" />
 
 # apolo agradece por ter clicado no meu perfil!! :P
 
