@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan_)
 [![Portfolio de Design](https://img.shields.io/badge/Portfolio_de_Design-FF713E?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)](https://robowatzapp.my.canva.site/kylie-portfolio)
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="2px" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 </div>
 
 ##  conheça a kylie
@@ -21,7 +21,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - **engajada em comunidades** de mulheres e diversidade na tecnologia
 -  mãe de pet e nerd da t.i (me aventuro em hardware quase sempre)
 -  dois semestres de **engenharia de software** na faculdade damas (bacharelado)
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## tech stack
 
@@ -54,7 +54,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## experiências
 
@@ -70,7 +70,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - criação de componentes web e interação com apis
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## formação  
 
@@ -83,10 +83,10 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - curso de aperfeiçoamento em python (fic – 156h) – senac porto digital  
   concluído em jan/2024
   
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
 - [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## "fala comigo bebê"
 
@@ -100,4 +100,4 @@ vamo trocar uma ideia sobre tecnologia, diversidade, cachorros, games ou até so
 ---
 
  **do perfil de** [kylie santos](https://github.com/kyliews)
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
