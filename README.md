@@ -61,7 +61,7 @@ estou sempre aberta a conversar sobre tecnologia, diversidade e oportunidades de
 
 - 📧 **email:** kyliewilliam.ads@gmail.com
 - 💼 **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
-- 🌐 **disponível para:** são paulo ou goiânia
+- 🌐 **disponível para viagens:** são paulo ou goiânia
 
 ---
 
