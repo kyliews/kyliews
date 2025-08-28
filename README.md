@@ -15,7 +15,7 @@
 sou uma desenvolvedora full stack - com mais afinidade em back end, cursando graduação em segurança da informação na cesar school.
 tenho experiência remunerada em python e back-end. apaixonada por tecnologia inclusiva, tenho facilidade em aprender, sou focada e com boa adaptação, comunicação e resolução de problemas.
 
-- 🏳️‍⚧️ **mulher trans** orgulhosa da minha trajetória na tecnologia
+- 🏳️‍⚧️ **mulher trans** orgulhosa da minha trajetoria na tecnologia
 - 🌟 **1º lugar no hackapride 2025** – citi/ufpe
 - 📚 cursando **tecnólogo em segurança da informação** na cesar school
 - 📊 **engajada em comunidades** de mulheres e diversidade na tecnologia
@@ -62,7 +62,7 @@ tenho experiência remunerada em python e back-end. apaixonada por tecnologia in
 **mar/2024 – out/2024 | remoto**
 - criação de componentes web e interação com apis
 - apoio em análises de dados com foco em equidade e recortes sociais
-- iniciativas tecnológicas para grupos sub-representados
+- iniciativas tecnológicas para grupos sub-renpresentados
 
 ## 🌟 projetos em destaque
 
