@@ -87,7 +87,6 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
 - [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
   
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## "fala comigo bebê"
 
