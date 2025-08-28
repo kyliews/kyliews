@@ -19,7 +19,7 @@ tenho experiência remunerada em python e back-end. apaixonada por projetos de i
 -  **1º lugar no hackapride 2025** – citi/ufpe
 -  primeiro período: **tecnólogo em segurança da informação** na cesar school
 - **engajada em comunidades** de mulheres e diversidade na tecnologia
--  mãe de pet e nerd da tecnologia
+-  mãe de pet e nerd da t.i (me aventuro em hardware quase sempre)
 -  dois semestres de **engenharia de software** na faculdade damas (bacharelado)
 
 ##  tech stack
