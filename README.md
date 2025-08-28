@@ -15,9 +15,9 @@
 sou uma desenvolvedora full stack - com mais afinidade em back end, cursando graduação em segurança da informação na cesar school.
 tenho experiência remunerada em python e back-end. apaixonada por projetos de impacto social e tecnologia inclusiva, tenho facilidade em aprender, sou focada e com boa adaptação, comunicação e resolução de problemas.
 
+-  primeiro período: **tecnólogo em segurança da informação** na cesar school
 - 🏳️‍⚧️ **mulher trans** orgulhosa da minha trajetoria na tecnologia
 -  **1º lugar no hackapride 2025** – citi/ufpe
--  primeiro período: **tecnólogo em segurança da informação** na cesar school
 - **engajada em comunidades** de mulheres e diversidade na tecnologia
 -  mãe de pet e nerd da t.i (me aventuro em hardware quase sempre)
 -  dois semestres de **engenharia de software** na faculdade damas (bacharelado)
