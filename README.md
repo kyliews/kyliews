@@ -1,6 +1,6 @@
-
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
 <div align="center">
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="2px" />
+
 # apolo agradece por ter clicado no meu perfil!! :P
 
 **desenvolvedora full stack | segurança da informação |  ia & dados**
@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan_)
 [![Portfolio de Design](https://img.shields.io/badge/Portfolio_de_Design-FF713E?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)](https://robowatzapp.my.canva.site/kylie-portfolio)
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="2px" />
 </div>
 
 ##  conheça a kylie
