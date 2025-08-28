@@ -1,6 +1,6 @@
 <div align="center">
 
-# obgd por ter clicado no meu perfil!! :P
+# apolo agradece por ter clicado no meu perfil!! :P
 
 **desenvolvedora full stack | segurança da informação |  ia & dados**
 
