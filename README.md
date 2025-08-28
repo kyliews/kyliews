@@ -10,7 +10,7 @@
 
 </div>
 
-##  sobre mim
+##  "sobre eu"
 
 sou uma desenvolvedora full stack - com mais afinidade em back end, cursando graduação em segurança da informação na cesar school.
 tenho experiência remunerada em python e back-end. apaixonada por tecnologia inclusiva, tenho facilidade em aprender, sou focada e com boa adaptação, comunicação e resolução de problemas.
