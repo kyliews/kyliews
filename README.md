@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
+<img src="[https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true]([https://github.com/kyliews/kyliews/blob/main/src/apolo1.gif](https://github.com/kyliews/kyliews/blob/main/src/apolo2.gif))" width="100%" height="11px" />
 
+<img src="https://github.com/kyliews/kyliews/blob/main/src/video.gif?raw=true" width="100%" /> <img src="https://github.com/kyliews/kyliews/blob/main/src/video.gif?raw=true" width="100%" />
 # apolo agradece por ter clicado no meu perfil!! :P
 
 **desenvolvedora full stack | segurança da informação |  ia & dados**
