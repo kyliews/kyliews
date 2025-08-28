@@ -54,7 +54,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-## experiências destacadas
+## experiências
 
 ### **virada no café** – desenvolvedora back end júnior
 **maio/2025 – atual | híbrido**
