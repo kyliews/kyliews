@@ -69,6 +69,16 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
 
+## formação  
+
+- tecnólogo em segurança da informação – cesar school  
+  previsão de conclusão: jul/2028  
+
+- bacharelado em engenharia de software – faculdade damas  
+  ago/2024 – jun/2025  
+
+- curso de aperfeiçoamento em python (fic – 156h) – senac porto digital  
+  concluído em jan/2024  
 
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
 - [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
