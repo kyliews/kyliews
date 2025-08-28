@@ -23,21 +23,32 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 
 ##  tech stack
 
-**backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+##  habilidades técnicas
 
-**frontend:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+###  ciência de dados & análise
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+###  desenvolvimento web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**ferramentas:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+###  segurança & conformidade
+![Cryptography](https://img.shields.io/badge/Criptografia-8A2BE2?style=for-the-badge&logo=key&logoColor=white)
+![LGPD](https://img.shields.io/badge/LGPD-008000?style=for-the-badge&logo=law&logoColor=white)
+
+###  ui/ux & desktop
+![UX](https://img.shields.io/badge/UX-FF6F61?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-3480FA?style=for-the-badge&logo=python&logoColor=white)
+
+### ⚙ devops & produtividade
+![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## experiências destacadas
 
@@ -54,16 +65,6 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
 
-**outras competências técnicas:**
-
-**desenvolvimento & dados:**
-`ciência de dados` `git` `streamlit` `plotly` `pandas` `css` `html` `pyqt` `pyside6`
-
-**segurança & qualidade:**
-`criptografia` `lgpd` `ci/cd` `ux`
-
-**ferramentas & produtividade:**
-`excel` `trello`
 
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
 - [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
