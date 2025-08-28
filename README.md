@@ -21,6 +21,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - **engajada em comunidades** de mulheres e diversidade na tecnologia
 -  mãe de pet e nerd da t.i (me aventuro em hardware quase sempre)
 -  dois semestres de **engenharia de software** na faculdade damas (bacharelado)
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
 
 ## tech stack
 
@@ -53,6 +54,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
 
 ## experiências
 
@@ -68,6 +70,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - criação de componentes web e interação com apis
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
 
 ## formação  
 
@@ -78,10 +81,12 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
   ago/2024 – jun/2025  
 
 - curso de aperfeiçoamento em python (fic – 156h) – senac porto digital  
-  concluído em jan/2024  
-
+  concluído em jan/2024
+  
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
 - [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
 
 ## "fala comigo bebê"
 
@@ -95,3 +100,4 @@ vamo trocar uma ideia sobre tecnologia, diversidade, cachorros, games ou até so
 ---
 
  **do perfil de** [kylie santos](https://github.com/kyliews)
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" />
