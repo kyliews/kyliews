@@ -39,16 +39,6 @@ tenho experiência remunerada em python e back-end. apaixonada por tecnologia in
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-## 📊 estatísticas do github
-
-<div align="center">
-
-![kylie's github stats](https://github-readme-stats.vercel.app/api?username=kyliews&show_icons=true&theme=radical)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyliews&layout=compact&theme=radical)
-
-</div>
-
 ## 💼 experiências destacadas
 
 ### **virada no café** – desenvolvedora back end júnior
