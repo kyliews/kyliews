@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyliesantosdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF713E?style=for-the-badge&logo=firefox&logoColor=white)](https://robowatzapp.my.canva.site/kylie-portfolio)
 
 </div>
 
@@ -71,9 +72,10 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 
 vamo trocar uma ideia sobre tecnologia, diversidade, cachorros, games ou até sobre oportunidades?
 
--  **email:** kyliewilliam.ads@gmail.com
--  **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
--  **disponível para trabalho:** são paulo ou goiânia
+- **github:** [kyliews](https://github.com/kyliews)
+- **email:** kyliewilliam.ads@gmail.com
+- **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
+- **disponível para trabalho:** são paulo ou goiânia
 
 ---
 
