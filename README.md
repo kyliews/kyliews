@@ -71,7 +71,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 ## formação  
 
 - tecnólogo em segurança da informação – cesar school  
-  previsão de conclusão: jul/2028  
+  previsão de conclusão: dez/2027  
 
 - bacharelado em engenharia de software – faculdade damas  
   ago/2024 – jun/2025  
