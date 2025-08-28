@@ -2,7 +2,7 @@
 
 # obgd por ter clicado no meu perfil!! :P
 
-**💻 desenvolvedora full stack | 🔒 segurança da informação | 🤖 ia & dados**
+** desenvolvedora full stack | segurança da informação |  ia & dados**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyliesantosdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
@@ -10,18 +10,18 @@
 
 </div>
 
-## 🚀 sobre mim
+##  sobre mim
 
 sou uma desenvolvedora full stack - com mais afinidade em back end, cursando graduação em segurança da informação na cesar school.
 tenho experiência remunerada em python e back-end. apaixonada por tecnologia inclusiva, tenho facilidade em aprender, sou focada e com boa adaptação, comunicação e resolução de problemas.
 
 - 🏳️‍⚧️ **mulher trans** orgulhosa da minha trajetoria na tecnologia
-- 🌟 **1º lugar no hackapride 2025** – citi/ufpe
-- 📚 cursando **tecnólogo em segurança da informação** na cesar school
-- 📊 **engajada em comunidades** de mulheres e diversidade na tecnologia
-- 🐶 mãe de pet e nerd da tecnologia
+-  **1º lugar no hackapride 2025** – citi/ufpe
+-  cursando **tecnólogo em segurança da informação** na cesar school
+- **engajada em comunidades** de mulheres e diversidade na tecnologia
+-  mãe de pet e nerd da tecnologia
 
-## 🛠️ tech stack
+##  tech stack
 
 **backend:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ tenho experiência remunerada em python e back-end. apaixonada por tecnologia in
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-## 💼 experiências destacadas
+## experiências destacadas
 
 ### **virada no café** – desenvolvedora back end júnior
 **maio/2025 – atual | híbrido**
@@ -54,13 +54,8 @@ tenho experiência remunerada em python e back-end. apaixonada por tecnologia in
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
 
-## 🌟 projetos em destaque
 
-[![futuras cientistas](https://github-readme-stats.vercel.app/api/pin/?username=kyliews&repo=futuras-cientistas&theme=radical)](https://github.com/kyliews/futuras-cientistas)
-
-[![projeto pajubá](https://github-readme-stats.vercel.app/api/pin/?username=kyliews&repo=pajuba-tech&theme=radical)](https://github.com/kyliews/pajuba-tech)
-
-## 📫 vamos conversar!
+## "fala comigo bebê"
 
 estou sempre aberta a conversar sobre tecnologia, diversidade e oportunidades de colaboração!
 
