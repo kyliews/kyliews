@@ -55,6 +55,8 @@ tenho experiência remunerada em python e back-end. apaixonada por projetos de i
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
 
+**já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
+- [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
 
 ## "fala comigo bebê"
 
