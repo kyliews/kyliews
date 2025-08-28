@@ -73,7 +73,7 @@ vamo trocar uma ideia sobre tecnologia, diversidade, cachorros, games ou até so
 
 -  **email:** kyliewilliam.ads@gmail.com
 -  **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
--  **disponível para viagens:** são paulo ou goiânia
+-  **disponível para trabalho:** são paulo ou goiânia
 
 ---
 
