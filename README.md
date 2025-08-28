@@ -54,6 +54,17 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - apoio em análises de dados com foco em equidade e recortes sociais
 - iniciativas tecnológicas para grupos sub-renpresentados
 
+**📚 outras competências técnicas:**
+
+**👨‍💻 desenvolvimento & dados:**
+`ciência de dados` `git` `streamlit` `plotly` `pandas` `css` `html` `pyqt` `pyside6`
+
+**🔐 segurança & qualidade:**
+`criptografia` `lgpd` `ci/cd` `ux`
+
+**🛠️ ferramentas & produtividade:**
+`excel` `trello`
+
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
 - [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
 
