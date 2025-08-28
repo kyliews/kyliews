@@ -3,10 +3,10 @@
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
   
 <div align="center">
-  <img src="https://github.com/kyliews/kyliews/blob/main/src/apolo2.gif?raw=true" width="300px" />
+  <img src="https://github.com/kyliews/kyliews/blob/main/src/apolo2.gif?raw=true" width="200px" /><br/>
+  <h1>apolo agradece por ter clicado no meu perfil!! :P</h1>
 </div>
 
-# apolo agradece por ter clicado no meu perfil!! :P
 
 **desenvolvedora full stack | segurança da informação |  ia & dados**
 
@@ -90,7 +90,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
   
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 **já fiz freelances como designer e várias formas de empreender, como detalhei abaixo:** 
-- [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
+ [confira meu portfólio](https://robowatzapp.my.canva.site/kylie-portfolio)
   
 
 ## "fala comigo bebê"
