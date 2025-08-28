@@ -49,7 +49,7 @@ tenho experiência remunerada em python e back-end. apaixonada por projetos de i
 - integração com ia (gpt-3.5 turbo) para relatórios automatizados
 - análise de dados com recortes interseccionais (gênero, raça, região)
 
-### **pajubá tech** – desenvolvedora full stack (voluntária)
+### **pajubá tech** – desenvolvedora full stack júnior
 **mar/2024 – out/2024 | remoto**
 - criação de componentes web e interação com apis
 - apoio em análises de dados com foco em equidade e recortes sociais
