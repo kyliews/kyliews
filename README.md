@@ -23,6 +23,7 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 
 - 🏳️‍⚧️ **mulher trans** orgulhosa da minha trajetoria na tecnologia
 -  **1º lugar no hackapride 2025** – citi/ufpe
+-  **2º lugar INOVAPRIDE 2025**
 - **engajada em comunidades** de mulheres e diversidade na tecnologia
 -  mãe de pet e nerd da t.i (me aventuro em hardware quase sempre)
 -  dois semestres de **engenharia de software** na faculdade damas (bacharelado)
