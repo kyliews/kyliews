@@ -1,110 +1,114 @@
 <div align="center">
-  
+
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
-  
+
 <div align="center">
   <img src="https://github.com/kyliews/kyliews/blob/main/src/apolo2.gif?raw=true" width="200px" /><br/>
-  <h1>apolo agradece por ter clicado no meu perfil!! :P</h1>
+  <h1>apolo agradece por ter clicado no meu perfil</h1>
 </div>
 
+**desenvolvedora full stack | segurança da informação | ia & dados**
 
-**desenvolvedora full stack | segurança da informação |  ia & dados**
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyliesantosdev/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan_)
+[![portfolio de design](https://img.shields.io/badge/Portfolio_de_Design-FF713E?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)](https://robowatzapp.my.canva.site/kylie-portfolio)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyliesantosdev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan_)
-[![Portfolio de Design](https://img.shields.io/badge/Portfolio_de_Design-FF713E?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)](https://robowatzapp.my.canva.site/kylie-portfolio)
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 </div>
 
-##  conheça a kylie
+## conheça a kylie
 
-sou uma desenvolvedora full stack - com mais afinidade em back end, cursando graduação em segurança da informação - área esta que busco migrar. tenho experiência remunerada em python e back-end. apaixonada por projetos de impacto social e tecnologia inclusiva, tenho facilidade em aprender, sou focada e com boa adaptação, comunicação e resolução de problemas.
+sou desenvolvedora full stack com mais afinidade em back end e segurança da informação, com experiência remunerada em python e back-end. apaixonada por projetos de impacto social e tecnologia inclusiva, tenho facilidade em aprender, foco, adaptação, comunicação e resolução de problemas.
 
-- 🏳️‍⚧️ **mulher trans** orgulhosa da minha trajetoria na tecnologia
--  **1º lugar no hackapride 2025** – citi/ufpe
--  **2º lugar INOVAPRIDE 2025**
-- **engajada em comunidades** de mulheres e diversidade na tecnologia
--  mãe de pet e nerd da t.i (me aventuro em hardware quase sempre)
--  dois semestres de **engenharia de software** na faculdade damas (bacharelado)
+- mulher trans orgulhosa da minha trajetória na tecnologia  
+- 1º lugar no hackapride 2025 – citi/ufpe  
+- 2º lugar inovapride 2025  
+- engajada em comunidades de mulheres e diversidade na tecnologia  
+- mãe de pet e nerd de t.i. (curiosa por hardware)  
+- experiência em wordpress, php e responsabilidade de acessibilidade em sites  
+
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## tech stack
 
 ### linguagens de programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![wordpress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### frameworks & bibliotecas
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![django rest](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![pyqt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![pyside6](https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### bancos de dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### ciência de dados & visualização
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### front-end & design
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UX](https://img.shields.io/badge/UX-FF6F61?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ux](https://img.shields.io/badge/UX-FF6F61?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ### cibersegurança
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![TLS/SSL](https://img.shields.io/badge/TLS/SSL-3DDC84?style=for-the-badge&logo=lets-encrypt&logoColor=white)
-![LGPD](https://img.shields.io/badge/LGPD-008000?style=for-the-badge&logo=law&logoColor=white)
-![MFA](https://img.shields.io/badge/MFA-FF6C37?style=for-the-badge&logo=authenticator&logoColor=white)
+![owasp](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![tls/ssl](https://img.shields.io/badge/TLS/SSL-3DDC84?style=for-the-badge&logo=lets-encrypt&logoColor=white)
+![lgpd](https://img.shields.io/badge/LGPD-008000?style=for-the-badge&logo=law&logoColor=white)
+![mfa](https://img.shields.io/badge/MFA-FF6C37?style=for-the-badge&logo=authenticator&logoColor=white)
 
 ### cloud & devops
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![ec2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![s3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![rds](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### ferramentas de desenvolvimento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-</div>
+<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## experiências
 
-### **virada no café** – desenvolvedora back end júnior
+### virada no café – desenvolvedora back end júnior
 **maio/2025 – atual | híbrido**
 - desenvolvimento da plataforma futuras cientistas (cetene)
 - apis rest com autenticação, permissões e criptografia aes-256
 - integração com ia (gpt-3.5 turbo) para relatórios automatizados
 - análise de dados com recortes interseccionais (gênero, raça, região)
 
-### **pajubá tech** – desenvolvedora full stack júnior
+### pajubá tech – desenvolvedora full stack voluntária
 **mar/2024 – out/2024 | remoto**
 - criação de componentes web e interação com apis
 - apoio em análises de dados com foco em equidade e recortes sociais
-- iniciativas tecnológicas para grupos sub-renpresentados
+- iniciativas tecnológicas para grupos sub-representados
+
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 ## formação  
@@ -112,23 +116,15 @@ sou uma desenvolvedora full stack - com mais afinidade em back end, cursando gra
 - tecnólogo em segurança da informação – cesar school  
   previsão de conclusão: dez/2027  
 
-- bacharelado em engenharia de software – faculdade damas  
-  ago/2024 – jun/2025  
-
 - curso de aperfeiçoamento em python (fic – 156h) – senac porto digital  
   concluído em jan/2024
-  
+
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
-## "fala comigo bebê"
+## fale comigo
 
-vamo trocar uma ideia sobre tecnologia, diversidade, cachorros, games ou até sobre oportunidades?
+vamo trocar uma ideia sobre tecnologia, diversidade, acessibilidade, wordpress, php, pets ou oportunidades?
 
-- **github:** [kyliews](https://github.com/kyliews)
-- **email:** kyliewilliam.ads@gmail.com
-- **linkedin:** [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
-
----
-
- **do perfil de** [kylie santos](https://github.com/kyliews)
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
+- github: [kyliews](https://github.com/kyliews)  
+- email: kyliewiliam.ads@gmail.com  
+- linkedin: [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
