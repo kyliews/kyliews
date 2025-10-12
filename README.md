@@ -19,14 +19,20 @@
 
 ## conheça a kylie
 
-sou desenvolvedora full stack com mais afinidade em back end e segurança da informação, com experiência remunerada em python e back-end. apaixonada por projetos de impacto social e tecnologia inclusiva, tenho facilidade em aprender, foco, adaptação, comunicação e resolução de problemas.
+sou desenvolvedora full stack com foco em back-end, segurança da informação e dados.  
+tenho experiência remunerada com python e django, e uma trajetória marcada por projetos de impacto social e tecnologia inclusiva.  
 
-- mulher trans orgulhosa da minha trajetória na tecnologia  
+atualmente, faço parte do time da respeita meu nome, uma iniciativa voltada para que pessoas trans e travestis possam registrar denúncias de desrespeito ao nome social, e atuo também como voluntária e mentora na diversificadev, apoiando pessoas iniciantes na área de tecnologia.  
+
+curso segurança da informação na cesar school e estou me aprofundando em cloud computing (aws). participo ativamente de eventos e comunidades de diversidade na tecnologia.  
+
+tenho facilidade em aprender, sou focada, comunicativa e curiosa por natureza.  
+sou uma mulher trans, orgulhosa da minha trajetória e do espaço que venho construindo na t.i.  
+mãe do apolo e nerd que adora se aventurar em hardware.  
+
 - 1º lugar no hackapride 2025 – citi/ufpe  
 - 2º lugar inovapride 2025  
 - engajada em comunidades de mulheres e diversidade na tecnologia  
-- mãe de pet e nerd de t.i. (curiosa por hardware)  
-- experiência em wordpress, php e responsabilidade de acessibilidade em sites  
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
@@ -96,8 +102,10 @@ sou desenvolvedora full stack com mais afinidade em back end e segurança da inf
 
 ## experiências
 
+
+
 ### virada no café – desenvolvedora back end júnior
-**maio/2025 – atual | híbrido**
+**maio/2025 – setembro - 2025 | híbrido**
 - desenvolvimento da plataforma futuras cientistas (cetene)
 - apis rest com autenticação, permissões e criptografia aes-256
 - integração com ia (gpt-3.5 turbo) para relatórios automatizados
