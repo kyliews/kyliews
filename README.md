@@ -15,6 +15,7 @@
 [![portfolio de design](https://img.shields.io/badge/Portfolio_de_Design-FF713E?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)](https://robowatzapp.my.canva.site/kylie-portfolio)
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
+
 </div>
 
 ## conheça a kylie
