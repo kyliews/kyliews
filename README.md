@@ -104,20 +104,40 @@ mãe do apolo e nerd que adora se aventurar em hardware.
 
 ## experiências
 
+### respeita meu nome - desenvolvedora full stack
+**out/2025 - atual | remoto**
 
+desenvolvimento e manutenção da plataforma respeita meu nome, voltada para denúncias de desrespeito ao nome social de pessoas trans e travestis.
 
-### virada no café – desenvolvedora back end júnior
-**maio/2025 – setembro - 2025 | híbrido**
-- desenvolvimento da plataforma futuras cientistas (cetene)
-- apis rest com autenticação, permissões e criptografia aes-256
-- integração com ia (gpt-3.5 turbo) para relatórios automatizados
-- análise de dados com recortes interseccionais (gênero, raça, região)
+- implementação de funcionalidades com next.js, typescript e firebase
+- criação de interfaces acessíveis e responsivas com foco em usabilidade e inclusão digital
+- autenticação segura e banco de dados em tempo real
+- colaboração em decisões de arquitetura e segurança da aplicação
+- aplicação de práticas owasp e principios de lgpd
 
-### pajubá tech – desenvolvedora full stack voluntária
-**mar/2024 – out/2024 | remoto**
-- criação de componentes web e interação com apis
-- apoio em análises de dados com foco em equidade e recortes sociais
-- iniciativas tecnológicas para grupos sub-representados
+**tecnologias:** next.js, typescript, firebase, javascript, react, ux/ui, acessibilidade digital, owasp, lgpd, autenticação segura, criptografia, cloud computing, apis rest, git, ci/cd
+
+### virada no café - desenvolvedora back end júnior
+**maio/2025 - set/2025 | hibrido**
+
+desenvolvimento da plataforma futuras cientistas, apoiada pela cetene.
+
+- criação e manutenção de apis rest com autenticação, permissões e criptografia aes-256
+- implementação de backups automáticos e integração com ia (gpt-3.5 turbo) para relatórios automatizados
+- análise de dados com recortes interseccionais (genero, raça, região)
+- participação em decisões de arquitetura, ux e entrega continua
+
+**tecnologias:** django, django rest, python, postgresql, ciencia de dados, git, criptografia, ux, ci/cd, html, css, docker
+
+### pajubá tech - desenvolvedora full stack voluntária
+**mar/2024 - out/2024 | remoto**
+
+- criação de componentes web e interação com apis utilizando javascript
+- apoio em analises de dados com foco em equidade e recortes sociais
+- participação ativa em reuniões de equipe, sprints colaborativas e ações comunitárias
+- suporte a iniciativas tecnológicas voltadas para grupos sub-representados
+
+**tecnologias:** postgresql, node.js, javascript, lgpd
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
