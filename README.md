@@ -27,7 +27,9 @@ atualmente, faço parte do time da respeita meu nome, uma iniciativa voltada par
 curso segurança da informação na cesar school e estou me aprofundando em cloud computing (aws). participo ativamente de eventos e comunidades de diversidade na tecnologia.  
 
 tenho facilidade em aprender, sou focada, comunicativa e curiosa por natureza.  
+
 sou uma mulher trans, orgulhosa da minha trajetória e do espaço que venho construindo na t.i.  
+
 mãe do apolo e nerd que adora se aventurar em hardware.  
 
 - 1º lugar no hackapride 2025 – citi/ufpe  
