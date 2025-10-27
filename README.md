@@ -20,22 +20,21 @@
 
 ## conheça a kylie
 
-sou desenvolvedora full stack com foco em back-end, segurança da informação e dados.  
-tenho experiência remunerada com python(frameworks django e api rests) e javascript(com foco em node.js/next.js), e uma trajetória marcada por projetos de impacto social e tecnologia inclusiva.  
+sou uma desenvolvedora full stack com foco em back-end, segurança da informação e dados.
+tenho experiência remunerada com python(frameworks django e api rests) e javascript(com foco em node.js/next.js), além de experiencia com tratativa e ciência de dados, e uma trajetória marcada por projetos de impacto social e tecnologia inclusiva.
 
-atualmente, faço parte do time da respeita meu nome, uma iniciativa voltada para que pessoas trans e travestis possam registrar denúncias de desrespeito ao nome social, e atuo também como voluntária e mentora na diversificadev, apoiando pessoas iniciantes na área de tecnologia.  
+atualmente, faço parte do time da respeita meu nome, uma iniciativa voltada para que pessoas trans e travestis possam registrar denúncias de desrespeito ao nome social, e atuo também como voluntária e mentora na diversificadev, apoiando pessoas iniciantes na área que atuo.
 
-curso segurança da informação na cesar school e estou me aprofundando em cloud computing (aws). participo ativamente de eventos e comunidades de diversidade na tecnologia.  
+curso segurança da informação na cesar school e estou me aprofundando em cloud computing (aws). participo ativamente de eventos e comunidades de diversidade na tecnologia.
 
-tenho facilidade em aprender, sou focada, comunicativa e curiosa por natureza.  
+tenho facilidade em aprender, sou focada, comunicativa e curiosa por natureza.
 
-sou uma mulher trans, orgulhosa da minha trajetória e do espaço que venho construindo na t.i.  
+sou uma mulher trans, orgulhosa da minha trajetória e do espaço que venho construindo no mercado da tecnologia.
 
-mãe do apolo e nerd que adora se aventurar em hardware.  
+mãe do apolo e nerd que adora se aventurar em hardware.
 
-- 1º lugar no hackapride 2025 – citi/ufpe  
-- 2º lugar inovapride 2025  
-- engajada em comunidades de mulheres e diversidade na tecnologia  
+1º lugar no hackapride 2025 – citi/ufpe
+2º lugar inovapride 2025
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
