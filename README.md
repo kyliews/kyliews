@@ -21,7 +21,7 @@
 ## conheça a kylie
 
 sou desenvolvedora full stack com foco em back-end, segurança da informação e dados.  
-tenho experiência remunerada com python e django, e uma trajetória marcada por projetos de impacto social e tecnologia inclusiva.  
+tenho experiência remunerada com python(frameworks django e api rests) e javascript(com foco em node.js/next.js), e uma trajetória marcada por projetos de impacto social e tecnologia inclusiva.  
 
 atualmente, faço parte do time da respeita meu nome, uma iniciativa voltada para que pessoas trans e travestis possam registrar denúncias de desrespeito ao nome social, e atuo também como voluntária e mentora na diversificadev, apoiando pessoas iniciantes na área de tecnologia.  
 
