@@ -12,7 +12,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyliesantosdev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan_)
-[![portfolio de design](https://img.shields.io/badge/Portfolio_de_Design-FF713E?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)](https://robowatzapp.my.canva.site/kylie-portfolio)
+[![portfolio de design](https://www.canva.com/design/DAGq9C2Q_EE/L7F3f4hmk_EfbWiTlZesfA/view?utm_content=DAGq9C2Q_EE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfc7718f1e3)
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
