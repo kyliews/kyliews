@@ -226,12 +226,8 @@ kylie = {
 
 <div align="center">
 
-<picture>
-
 <!-- Card de Estatísticas Gerais -->
 <img src="images/stats.svg" alt="GitHub Stats" height="160px" />
-
-</picture>
 
 <picture>
   <source srcset="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
@@ -239,12 +235,8 @@ kylie = {
   <img src="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" height="160px"/>
 </picture>
 
-<picture>
-
   <!-- Card de Linguagens Mais Usadas -->
 <img src="images/top-langs.svg" alt="Top Languages" height="160px" />
-
-</picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyliews&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
