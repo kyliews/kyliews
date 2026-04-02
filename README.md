@@ -80,70 +80,31 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 ###  DiversificaDev — Diretora Institucional & de Inteligência de Dados
 **abr/2026 – presente | Remoto**
 
-- Liderança estratégica do **DiversificaData** (Observatório Nacional da Comunidade Trans) em parceria com **Fiocruz/ENSP**
+- Participação Estratégica no **DiversificaData** (Observatório Nacional da Comunidade Trans) em parceria com **Fiocruz/ENSP**
 - Gestão de arquitetura de dados, IA ética e soluções com **privacidade por design** (TransEmpregos)
 - Articulação com parlamentares, órgãos públicos e empresas para capacitação inclusiva e proteção digital
 
 **Voluntária – Articulação Institucional** `fev/2026 – mar/2026`
 - Conexão estratégica com Fiocruz/ENSP e órgãos públicos para políticas de inclusão tecnológica
 
----
-
-###  Respeita Meu Nome — Full Stack Developer
-**out/2025 – jan/2026 | Remoto**
-- Plataforma de denúncia de desrespeito ao nome social de pessoas trans e travestis
-- Next.js + TypeScript + Firebase + OWASP + LGPD + autenticação segura
-
----
-
-###  Virada no Café (Futuras Cientistas / CETENE) — Back-End Developer
-**mai/2025 – set/2025 | Híbrido**
-- APIs REST com Django, criptografia AES-256, análise de 150k registros com Pandas
-- Integração com GPT-3.5 Turbo para relatórios automatizados
-- Decisões de arquitetura, UX e CI/CD
-
----
-
-###  Pajubá Tech — Full Stack Jr
-**mar/2024 – out/2024 | Remoto**
-- Chatbot para denúncias LGBTQIA+
-- Node.js + análise de dados sociais + perspectiva de equidade
-
----
-
-###  Secretaria da Fazenda de Pernambuco — Estagiária Assistente
-**ago/2022 – dez/2023 | Presencial**
-- Organização fiscal, gestão documental, sistema Efisco, Excel, Trello, Office
-
----
-
 ##  `$ projects --highlight`
 
-### 🧠 TRO.IA — `🥇 1º lugar HackaPride 2025 (CITi/UFPE)`
+###  TRO.IA — ` 1º lugar HackaPride 2025 (CITi/UFPE)`
 > IA que transforma câmeras escolares em sistemas de cuidado preventivo — detecta padrões de risco de evasão e violência silenciosa. Arquitetura técnica e liderança total.
-
----
 
 ###  DiversificaData — `Fiocruz/ENSP`
 > Observatório nacional que produz evidências científicas para desmontar o "Paradoxo da Qualificação" e subsidiar estratégias de ESG e governança corporativa.
 > Lançado em 31 de março de 2026 na Fiocruz/RJ — com atuação como host do evento.
 
----
-
 ###  TransEmpregos
 > Sistema RAG + agentes que conecta pessoas trans a vagas — indexação vetorial, orquestração multi-agentes, anonimização e privacidade por design (LGPD).
-
----
 
 ###  Arquivo Transformista — [`arquivotransformista.com.br`](https://arquivotransformista.com.br/)
 > Plataforma de memória da arte transformista em SP. Tradução de design Figma → WordPress responsivo e acessível.
 
----
-
 ###  Mentoria HackGirls 2025.2 (Fiocruz)
 > Coordenação geral do eixo de Tecnologia e Prototipagem — letramento digital, IA, IoT e Blockchain para meninas e mulheres.
 
----
 
 ##  `$ stack --full`
 
@@ -197,9 +158,9 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 
 | Curso | Instituição | Status |
 |-------|-------------|--------|
-| Tecnólogo em Segurança da Informação | CESAR School | 🔄 Em andamento (dez/2027) |
+| Tecnólogo em Segurança da Informação | CESAR School |  Em andamento (dez/2027) |
 | Bacharelado em Engenharia de Software | Faculdade Damas | 2024–2025 |
-| Curso de Aperfeiçoamento em Python (156h) | SENAC Porto Digital | ✅ Concluído jan/2024 |
+| Curso de Aperfeiçoamento em Python (156h) | SENAC Porto Digital |  Concluído jan/2024 |
 
 ---
 
@@ -298,6 +259,8 @@ kylie = {
 ![snake animation](https://github.com/kyliews/kyliews/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake animation](https://github.com/kyliews/kyliews/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+</div>
+
 ---
 
 ##  `$ philosophy`
@@ -308,7 +271,7 @@ tecnologia não é neutra.
 ou ela reproduz desigualdade —
 ou ela corrige.
 
-eu atuo para que não se repita.
+eu escolhi corrigir.
 ```
 
 ---
@@ -317,12 +280,12 @@ eu atuo para que não se repita.
 
 ![badge](https://img.shields.io/badge/Data_for_Social_Equity-FF61F6?style=for-the-badge)
 ![badge](https://img.shields.io/badge/Trans_Tech_Builder-c084fc?style=for-the-badge)
-![badge](https://img.shields.io/badge/Nordestina_na_Tech-f97316?style=for-the-badge)
+![badge](https://img.shields.io/badge/Nordestina_em_Tech-f97316?style=for-the-badge)
 ![badge](https://img.shields.io/badge/IA_com_Propósito-22d3ee?style=for-the-badge)
 
 <br/><br/>
 
- *se chegou até aqui — bora construir algo absurdo juntos.* 
+ *se chegou até aqui, bora construir algo absurdo juntos.* 
 
 <br/>
 
@@ -330,10 +293,9 @@ eu atuo para que não se repita.
 
 </div>
 
-<!-- 
-  se você leu até aqui:
-  provavelmente a gente deveria trabalhar junto.
-  👉 kyliewilliam.ads@gmail.com
--->
+> se você leu até aqui:
+>  provavelmente a gente deveria trabalhar junto.
+>  👉 kyliewilliam.ads@gmail.com
+
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="6px"/>
