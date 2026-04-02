@@ -7,7 +7,7 @@
   <h1>apolo agradece por ter clicado no meu perfil!</h1>
 </div>
 
-**AI Engineer Intern @iFood | Diretora de Inteligência de Dados @DiversificaDev | Segurança da Informação**
+**AI Engineer Intern - iFood | Direção Institucional e de Inteligência de Dados DiversificaDev | Segurança da Informação**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyliesantosdev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
@@ -18,20 +18,20 @@
 
 </div>
 
-## 🚀 sobre a kylie
+## sobre a kylie
 
 Sou uma desenvolvedora e engenheira de IA focada em construir soluções que resolvem problemas reais através de **arquiteturas agentic**, **RAG (Retrieval-Augmented Generation)** e governança de dados. Acredito na tecnologia como ferramenta de equidade — o que chamo de **"Data for Social Equity"**.
 
 Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agentes inteligentes. Em paralelo, ocupo a **Direção Institucional e de Inteligência de Dados na DiversificaDev**, onde lidero o **DiversificaData** — um observatório nacional em parceria com a **Fiocruz/ENSP** focado em evidências para políticas públicas e governança ESG.
 
-- 🎓 **Tecnólogo em Segurança da Informação** – CESAR School (previsão 2027).
-- 🛡️ Especialista em construir APIs seguras e sistemas em conformidade com a LGPD.
-- 🏳️‍⚧️ Mulher trans, nordestina e periférica, construindo espaço na tech com ética e propósito.
-- 👩‍👦 Mãe do Apolo e nerd fascinada por hardware.
+-  **Tecnólogo em Segurança da Informação** – CESAR School (previsão 2027).
+-  Especialista em construir APIs seguras e sistemas em conformidade com a LGPD.
+-  Mulher trans, nordestina e periférica, construindo espaço na tech com ética e propósito.
+-  Mãe do Apolo e nerd fascinada por hardware.
 
 ---
 
-## 💼 experiências profissionais
+##  experiências profissionais
 
 ### iFood (iFood Pago / Zoop) – AI Engineer Intern
 **abr/2026 – presente | híbrido**
@@ -61,19 +61,19 @@ Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agen
 
 ---
 
-## 🏆 conquistas & projetos de destaque
+##  conquistas & projetos de destaque
 
-- 🥇 **1º lugar no HackaPride 2025 (CITi/UFPE)** com o projeto **TRO.IA** – IA ética que transforma câmeras escolares em sistemas de cuidado preventivo.
-- 🥉 **3º lugar no InovaPride 2025**.
-- 📊 **DiversificaData** – Lançado em 31 de março de 2026 na Fiocruz/RJ, com atuação como host do evento. Produz evidências científicas para desmontar o "Paradoxo da Qualificação".
-- 🧬 **Mentoria HackGirls 2025.2 (Fiocruz)** – Coordenação geral do eixo de Tecnologia e Prototipagem, consultoria em IA, IoT e Blockchain para meninas e mulheres.
-- 🎭 **Arquivo Transformista** – Desenvolvimento da plataforma de memória da arte transformista em SP ([arquivotransformista.com.br](https://arquivotransformista.com.br/)). Tradução de design do Figma para WordPress responsivo e acessível.
-- 🤖 **TransEmpregos** – Sistema RAG + agentes para conectar pessoas trans a vagas, com indexação vetorial e privacidade por design (anonimização e LGPD).
-- 🔬 **Futuras Cientistas** – Plataforma para meninas na ciência (CETENE): back-end Django, criptografia AES-256, análise de dados com Pandas e integração com GPT-3.5 Turbo.
+-  **1º lugar no HackaPride 2025 (CITi/UFPE)** com o projeto **TRO.IA** – IA ética que transforma câmeras escolares em sistemas de cuidado preventivo.
+-  **3º lugar no InovaPride 2025**.
+-  **DiversificaData** – Lançado em 31 de março de 2026 na Fiocruz/RJ, com atuação como host do evento. Produz evidências científicas para desmontar o "Paradoxo da Qualificação".
+-  **Mentoria HackGirls 2025.2 (Fiocruz)** – Coordenação geral do eixo de Tecnologia e Prototipagem, consultoria em IA, IoT e Blockchain para meninas e mulheres.
+-  **Arquivo Transformista** – Desenvolvimento da plataforma de memória da arte transformista em SP ([arquivotransformista.com.br](https://arquivotransformista.com.br/)). Tradução de design do Figma para WordPress responsivo e acessível.
+-  **TransEmpregos** – Sistema RAG + agentes para conectar pessoas trans a vagas, com indexação vetorial e privacidade por design (anonimização e LGPD).
+-  **Futuras Cientistas** – Plataforma para meninas na ciência (CETENE): back-end Django, criptografia AES-256, análise de dados com Pandas e integração com GPT-3.5 Turbo.
 
 ---
 
-## 🛠 tech stack
+##  tech stack
 
 ### IA & dados
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -106,7 +106,7 @@ Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agen
 
 ---
 
-## 📜 certificações & prêmios
+##  certificações & prêmios
 
 - **Microsoft Certified:** Azure DevOps Engineer Expert (AZ-400) – 2026
 - **Microsoft Certified:** Azure AI Fundamentals (AI-900) – 2026
@@ -118,7 +118,7 @@ Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agen
 
 ---
 
-## 🧠 voluntariado e impacto social
+##  voluntariado e impacto social
 
 - **Mentora Voluntária – LinkedIn Estratégico (Pajubá Tech)** – fev/2026  
   Imersão sobre posicionamento profissional para estudantes do programa Carreta Digital (Pernambuco).
@@ -127,7 +127,7 @@ Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agen
 
 ---
 
-## 🌐 idiomas
+##  idiomas
 
 - **Português** – Nativo
 - **Inglês** – Avançado
@@ -135,7 +135,7 @@ Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agen
 
 ---
 
-## 💬 recomendação
+##  recomendação
 
 > *"Tive o prazer de trabalhar com a Kylie no desenvolvimento do projeto Arquivo Transformista... Ela conduziu o desenvolvimento com muita responsabilidade, atenção aos detalhes e compromisso com a entrega... Recomendo fortemente seu trabalho para projetos que exigem qualidade, responsabilidade e visão crítica no desenvolvimento digital."*  
 > — **Cristiane de Araujo Ferreira**, People Analytics
@@ -144,7 +144,7 @@ Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agen
 
 ---
 
-## ⚡ diferenciais estratégicos
+##  diferenciais estratégicos
 
 - **Velocidade de entrega** – Transformo gargalos operacionais em fluxos automatizados de alta performance (ex: redução de análise de 1h para 5min no iFood).
 - **Liderança interseccional** – Experiência em gerir projetos complexos que unem rigor científico (Fiocruz) com demandas de mercado e impacto social.
