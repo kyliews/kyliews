@@ -4,7 +4,7 @@
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/apolo2.gif?raw=true" width="160px"/>
 
-# 👾 Kylie Santos
+#  Kylie Santos
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FF61F6&center=true&vCenter=true&width=700&lines=AI+Engineer+Intern+%40+iFood+%F0%9F%8D%94;Agentic+Systems+%2B+RAG+em+produ%C3%A7%C3%A3o;Diretora+de+Dados+%40+DiversificaDev+%F0%9F%8C%88;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%2B+LGPD;Data+for+Social+Equity+%E2%9C%8A%F0%9F%8F%BD" />
 
@@ -28,56 +28,56 @@
 
 ---
 
-## 🧠 `$ whoami`
+##  `$ whoami`
 
 ```diff
 + AI Engineer | Full Stack | Segurança da Informação
 + Mulher trans, nordestina e periférica
 + Construindo tecnologia que inclui, protege e transforma realidades
-+ Mãe do Apolo 🐕 | Nerd de hardware | Data for Social Equity 🌈
++ Mãe do Apolo 🐕 | Nerd de hardware | Data for Social Equity 
 ```
 
 Sou engenheira de IA focada em resolver problemas **reais** — principalmente onde ninguém tá olhando.
 
 Construo sistemas com:
 
-- 🤖 **Arquiteturas Agentic** — orquestração multi-agentes em produção
-- 📚 **RAG (LLMs + dados reais)** — recuperação semântica e pipelines de embeddings
-- 🔐 **Segurança + LGPD** — privacidade por design, conformidade e proteção de dados
-- 🏛️ **Dados para políticas públicas** — evidências científicas para ESG e governança
-- 🌈 **Data for Social Equity** — minha filosofia, meu propósito
+-  **Arquiteturas Agentic** — orquestração multi-agentes em produção
+-  **RAG (LLMs + dados reais)** — recuperação semântica e pipelines de embeddings
+-  **Segurança + LGPD** — privacidade por design, conformidade e proteção de dados
+-  **Dados para políticas públicas** — evidências científicas para ESG e governança
+-  **Data for Social Equity** — minha filosofia, meu propósito
 
 ---
 
-## ⚡ `$ impact --quick`
+##  `$ impact --quick`
 
 ```yaml
 processo_otimizado:   "1h → < 5 minutos com IA"
 dados_processados:    "+150.000 registros analisados"
-hackathon:            "🥇 1º lugar HackaPride 2025 (UFPE/CITi)"
+hackathon:            " 1º lugar HackaPride 2025 (UFPE/CITi)"
 observatorio:         "DiversificaData lançado na Fiocruz/RJ (mar/2026)"
 certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 ```
 
 ---
 
-## 💼 `$ jobs --current`
+##  `$ jobs --current`
 
-### 🍔 iFood (iFood Pago / Zoop) — AI Engineer Intern
+###  iFood (iFood Pago / Zoop) — AI Engineer Intern
 **abr/2026 – presente | Híbrido**
 
 - Evolução e sustentação de **arquitetura de agentes de IA** na fintech do iFood
 - Escalabilidade de sistemas agentéticos e refinamento de **pipelines RAG** para suporte à decisão em tempo real
 - Analytics e dashboards para o time de Customer Experience
 
-**☀️ Summer Job – AI Agents** `dez/2025 – mar/2026`
+** Summer Job – AI Agents** `dez/2025 – mar/2026`
 - Reduzi tempo de análise de processos críticos de **1h → < 5 minutos** (LangChain + RAG)
 - Processamento massivo com **Spark SQL + Databricks**
 - Atuação em prevenção a fraudes, compliance e proteção de dados sensíveis
 
 ---
 
-### 🌈 DiversificaDev — Diretora Institucional & de Inteligência de Dados
+###  DiversificaDev — Diretora Institucional & de Inteligência de Dados
 **abr/2026 – presente | Remoto**
 
 - Liderança estratégica do **DiversificaData** (Observatório Nacional da Comunidade Trans) em parceria com **Fiocruz/ENSP**
@@ -89,14 +89,14 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 
 ---
 
-### 🧾 Respeita Meu Nome — Full Stack Developer
+###  Respeita Meu Nome — Full Stack Developer
 **out/2025 – jan/2026 | Remoto**
 - Plataforma de denúncia de desrespeito ao nome social de pessoas trans e travestis
 - Next.js + TypeScript + Firebase + OWASP + LGPD + autenticação segura
 
 ---
 
-### ☕ Virada no Café (Futuras Cientistas / CETENE) — Back-End Developer
+###  Virada no Café (Futuras Cientistas / CETENE) — Back-End Developer
 **mai/2025 – set/2025 | Híbrido**
 - APIs REST com Django, criptografia AES-256, análise de 150k registros com Pandas
 - Integração com GPT-3.5 Turbo para relatórios automatizados
@@ -104,50 +104,50 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 
 ---
 
-### 🏳️‍🌈 Pajubá Tech — Full Stack Jr
+###  Pajubá Tech — Full Stack Jr
 **mar/2024 – out/2024 | Remoto**
 - Chatbot para denúncias LGBTQIA+
 - Node.js + análise de dados sociais + perspectiva de equidade
 
 ---
 
-### 🏛️ Secretaria da Fazenda de Pernambuco — Estagiária Assistente
+###  Secretaria da Fazenda de Pernambuco — Estagiária Assistente
 **ago/2022 – dez/2023 | Presencial**
 - Organização fiscal, gestão documental, sistema Efisco, Excel, Trello, Office
 
 ---
 
-## 🚀 `$ projects --highlight`
+##  `$ projects --highlight`
 
 ### 🧠 TRO.IA — `🥇 1º lugar HackaPride 2025 (CITi/UFPE)`
 > IA que transforma câmeras escolares em sistemas de cuidado preventivo — detecta padrões de risco de evasão e violência silenciosa. Arquitetura técnica e liderança total.
 
 ---
 
-### 📊 DiversificaData — `Fiocruz/ENSP`
+###  DiversificaData — `Fiocruz/ENSP`
 > Observatório nacional que produz evidências científicas para desmontar o "Paradoxo da Qualificação" e subsidiar estratégias de ESG e governança corporativa.
 > Lançado em 31 de março de 2026 na Fiocruz/RJ — com atuação como host do evento.
 
 ---
 
-### 💼 TransEmpregos
+###  TransEmpregos
 > Sistema RAG + agentes que conecta pessoas trans a vagas — indexação vetorial, orquestração multi-agentes, anonimização e privacidade por design (LGPD).
 
 ---
 
-### 🎭 Arquivo Transformista — [`arquivotransformista.com.br`](https://arquivotransformista.com.br/)
+###  Arquivo Transformista — [`arquivotransformista.com.br`](https://arquivotransformista.com.br/)
 > Plataforma de memória da arte transformista em SP. Tradução de design Figma → WordPress responsivo e acessível.
 
 ---
 
-### 👩🏽‍🏫 Mentoria HackGirls 2025.2 (Fiocruz)
+###  Mentoria HackGirls 2025.2 (Fiocruz)
 > Coordenação geral do eixo de Tecnologia e Prototipagem — letramento digital, IA, IoT e Blockchain para meninas e mulheres.
 
 ---
 
-## 🧰 `$ stack --full`
+##  `$ stack --full`
 
-### 🤖 IA & Dados
+###  IA & Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -161,7 +161,7 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🔐 Backend & Segurança
+###  Backend & Segurança
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -171,7 +171,7 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 ![LGPD](https://img.shields.io/badge/LGPD-008000?style=for-the-badge&logoColor=white)
 ![AES-256](https://img.shields.io/badge/AES--256-8B0000?style=for-the-badge&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -179,13 +179,13 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🗄️ Bancos de Dados & Vetoriais
+###  Bancos de Dados & Vetoriais
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -193,7 +193,7 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 
 ---
 
-## 🎓 `$ education`
+##  `$ education`
 
 | Curso | Instituição | Status |
 |-------|-------------|--------|
@@ -203,33 +203,33 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 
 ---
 
-## 🏅 `$ certifications`
+##  `$ certifications`
 
-- 🔵 **Microsoft Certified:** Azure DevOps Engineer Expert **(AZ-400)** — 2026
-- 🔵 **Microsoft Certified:** Azure AI Fundamentals **(AI-900)** — 2026
-- 🧠 **Artificial Intelligence & Generative AI** (Microsoft / Azure ML / Databricks) — 2025
-- 🛡️ **Soft Skills iFood** — Código de Ética, PLD, Segurança da Informação — 2025
-- 📋 **Gestão Ágil com Scrum e Kanban** — Senac Brasil — 2025
-- 🏆 **1º lugar HackaPride 2025** — CITi/UFPE (TRO.IA)
-- 🥉 **3º lugar InovaPride 2025**
-- 👩🏽‍💻 **Elas na IA** — WoMakersCode (30h) — 2025
+-  **Microsoft Certified:** Azure DevOps Engineer Expert **(AZ-400)** — 2026
+-  **Microsoft Certified:** Azure AI Fundamentals **(AI-900)** — 2026
+-  **Artificial Intelligence & Generative AI** (Microsoft / Azure ML / Databricks) — 2025
+-  **Soft Skills iFood** — Código de Ética, PLD, Segurança da Informação — 2025
+-  **Gestão Ágil com Scrum e Kanban** — Senac Brasil — 2025
+-  **1º lugar HackaPride 2025** — CITi/UFPE (TRO.IA)
+-  **3º lugar InovaPride 2025**
+- 👩 **Elas na IA** — WoMakersCode (30h) — 2025
 
-🔗 [Ver todas no LinkedIn](https://www.linkedin.com/in/kyliesantosdev/details/certifications/)
+ [Ver todas no LinkedIn](https://www.linkedin.com/in/kyliesantosdev/details/certifications/)
 
 ---
 
-## 🌍 `$ social_impact`
+##  `$ social_impact`
 
 | Iniciativa | Onde | Quando |
 |-----------|------|--------|
-| 🎤 Host & Apresentadora – Lançamento DiversificaData | Fiocruz/RJ | mar/2026 |
-| 🧑‍🏫 Mentora – LinkedIn Estratégico (Carreta Digital) | Pajubá Tech | fev/2026 |
-| 👩🏽‍💻 Coordenadora Tecnologia – HackGirls 2025.2 | Fiocruz | 2025 |
-| 🖥️ Monitora – Oficina Low-Code | Senac Pernambuco | out/2025 |
+|  Host & Apresentadora – Lançamento DiversificaData | Fiocruz/RJ | mar/2026 |
+|  Mentora – LinkedIn Estratégico (Carreta Digital) | Pajubá Tech | fev/2026 |
+|  Coordenadora Tecnologia – HackGirls 2025.2 | Fiocruz | 2025 |
+|  Monitora – Oficina Low-Code | Senac Pernambuco | out/2025 |
 
 ---
 
-## 🌐 `$ languages`
+##  `$ languages`
 
 ![Português](https://img.shields.io/badge/Português-Nativo-FF61F6?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Advanced-0A66C2?style=for-the-badge)
@@ -237,17 +237,17 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 
 ---
 
-## 💬 `$ recommendations`
+##  `$ recommendations`
 
 > *"Responsabilidade, atenção aos detalhes e visão crítica no desenvolvimento digital."*
 >
 > — **Cristiane de Araujo Ferreira**, People Analytics
 
-🔗 [Ver no LinkedIn](https://www.linkedin.com/in/kyliesantosdev/#recommendations)
+ [Ver no LinkedIn](https://www.linkedin.com/in/kyliesantosdev/#recommendations)
 
 ---
 
-## 🧬 `$ differentials`
+##  `$ differentials`
 
 ```python
 kylie = {
@@ -261,7 +261,7 @@ kylie = {
 
 ---
 
-## 📊 `$ stats`
+##  `$ stats`
 
 <div align="center">
 
@@ -291,7 +291,7 @@ kylie = {
 
 ---
 
-## 🐍 `$ contributions --snake`
+##  `$ contributions --snake`
 
 <div align="center">
 
@@ -335,7 +335,7 @@ jobs:
 
 ---
 
-## 🌈 `$ philosophy`
+##  `$ philosophy`
 
 ```
 tecnologia não é neutra.
@@ -357,7 +357,7 @@ eu escolhi corrigir.
 
 <br/><br/>
 
-✨ *se chegou até aqui — bora construir algo absurdo juntos.* ✨
+ *se chegou até aqui — bora construir algo absurdo juntos.* 
 
 <br/>
 
