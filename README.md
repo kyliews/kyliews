@@ -4,7 +4,7 @@
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/apolo2.gif?raw=true" width="160px"/>
 
-#  Kylie Santos
+#  apolo agradece ter clicado no meu perfil! 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=FF61F6&center=true&vCenter=true&width=700&lines=AI+Engineer+Intern+%40+iFood+%F0%9F%8D%94;Agentic+Systems+%2B+RAG+em+produ%C3%A7%C3%A3o;Diretora+de+Dados+%40+DiversificaDev+%F0%9F%8C%88;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%2B+LGPD;Data+for+Social+Equity+%E2%9C%8A%F0%9F%8F%BD" />
 
