@@ -224,30 +224,20 @@ kylie = {
 
 ##  `$ stats`
 
+<!-- Streak stats -->
 <div align="center">
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://streak-stats.demolab.com?user=kyliews&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" width="100%" max-width="500px" />
+  </picture>
+</div>
 
-<!-- Card de Estatísticas Gerais com suporte a tema claro/escuro -->
-<picture>
-  <source srcset="images/stats-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="images/stats-light.svg" media="(prefers-color-scheme: light)" />
-  <img src="images/stats-light.svg" alt="GitHub Stats" height="160px" />
-</picture>
+<br/>
 
-<picture>
-  <source srcset="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://streak-stats.demolab.com?user=kyliews&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-  <img src="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" height="160px"/>
-</picture>
+<br/>
 
-<!-- Card de Linguagens Mais Usadas -->
-<picture>
-  <source srcset="images/top-langs-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="images/top-langs-light.svg" media="(prefers-color-scheme: light)" />
-  <img src="images/top-langs-light.svg" alt="Top Languages" height="160px" />
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyliews&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
+<!-- Profile summary -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyliews&theme=radical" width="100%"/>
 
 </div>
