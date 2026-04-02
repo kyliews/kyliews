@@ -226,8 +226,12 @@ kylie = {
 
 <div align="center">
 
-<!-- Card de Estatísticas Gerais -->
-<img src="images/stats.svg" alt="GitHub Stats" height="160px" />
+<!-- Card de Estatísticas Gerais com suporte a tema claro/escuro -->
+<picture>
+  <source srcset="images/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="images/stats-light.svg" media="(prefers-color-scheme: light)" />
+  <img src="images/stats-light.svg" alt="GitHub Stats" height="160px" />
+</picture>
 
 <picture>
   <source srcset="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
@@ -235,8 +239,12 @@ kylie = {
   <img src="https://streak-stats.demolab.com?user=kyliews&theme=radical&hide_border=true" height="160px"/>
 </picture>
 
-  <!-- Card de Linguagens Mais Usadas -->
-<img src="images/top-langs.svg" alt="Top Languages" height="160px" />
+<!-- Card de Linguagens Mais Usadas -->
+<picture>
+  <source srcset="images/top-langs-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="images/top-langs-light.svg" media="(prefers-color-scheme: light)" />
+  <img src="images/top-langs-light.svg" alt="Top Languages" height="160px" />
+</picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kyliews&theme=react-dark&hide_border=true&area=true" width="100%"/>
 

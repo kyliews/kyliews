@@ -2,19 +2,19 @@ name: Update GitHub Stats Images
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Executa diariamente à meia-noite
-  workflow_dispatch:     # Permite execução manual
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # Permissão essencial para fazer o commit dos SVGs gerados
+      contents: write
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Gerar card de estatísticas gerais
+      # Gera card stats para tema claro
+      - name: Gerar stats (claro)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
@@ -22,11 +22,27 @@ jobs:
             username=${{ github.repository_owner }}&
             show_icons=true&
             count_private=true&
-            hide_border=true
-          path: images/stats.svg
+            hide_border=true&
+            theme=default
+          path: images/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Gerar card de linguagens mais usadas
+      # Gera card stats para tema escuro
+      - name: Gerar stats (escuro)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: |
+            username=${{ github.repository_owner }}&
+            show_icons=true&
+            count_private=true&
+            hide_border=true&
+            theme=radical
+          path: images/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Gera top-langs claro
+      - name: Gerar top-langs (claro)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
@@ -34,11 +50,26 @@ jobs:
             username=${{ github.repository_owner }}&
             layout=compact&
             count_private=true&
-            hide_border=true
-          path: images/top-langs.svg
+            hide_border=true&
+            theme=default
+          path: images/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commitar e fazer push das imagens geradas
+      # Gera top-langs escuro
+      - name: Gerar top-langs (escuro)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: |
+            username=${{ github.repository_owner }}&
+            layout=compact&
+            count_private=true&
+            hide_border=true&
+            theme=radical
+          path: images/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit e push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
