@@ -212,7 +212,7 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 -  **Gestão Ágil com Scrum e Kanban** — Senac Brasil — 2025
 -  **1º lugar HackaPride 2025** — CITi/UFPE (TRO.IA)
 -  **3º lugar InovaPride 2025**
-- 👩 **Elas na IA** — WoMakersCode (30h) — 2025
+-  **Elas na IA** — WoMakersCode (30h) — 2025
 
  [Ver todas no LinkedIn](https://www.linkedin.com/in/kyliesantosdev/details/certifications/)
 
@@ -224,7 +224,7 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 |-----------|------|--------|
 |  Host & Apresentadora – Lançamento DiversificaData | Fiocruz/RJ | mar/2026 |
 |  Mentora – LinkedIn Estratégico (Carreta Digital) | Pajubá Tech | fev/2026 |
-|  Coordenadora Tecnologia – HackGirls 2025.2 | Fiocruz | 2025 |
+|  Coordenadora Tecnologia – HackGirls 2025.2 | Fiocruz | 2026.1 |
 |  Monitora – Oficina Low-Code | Senac Pernambuco | out/2025 |
 
 ---
@@ -298,8 +298,6 @@ kylie = {
 ![snake animation](https://github.com/kyliews/kyliews/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake animation](https://github.com/kyliews/kyliews/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-</div>
-
 ---
 
 ##  `$ philosophy`
@@ -310,7 +308,7 @@ tecnologia não é neutra.
 ou ela reproduz desigualdade —
 ou ela corrige.
 
-eu escolhi corrigir.
+eu atuo para que não se repita.
 ```
 
 ---
