@@ -70,7 +70,7 @@ certificacoes:        "AZ-400 | AI-900 | Generative AI (Microsoft)"
 - Escalabilidade de sistemas agentéticos e refinamento de **pipelines RAG** para suporte à decisão em tempo real
 - Analytics e dashboards para o time de Customer Experience
 
-** Summer Job – AI Agents** `dez/2025 – mar/2026`
+**Summer Job – AI Agents** `dez/2025 – mar/2026`
 - Reduzi tempo de análise de processos críticos de **1h → < 5 minutos** (LangChain + RAG)
 - Processamento massivo com **Spark SQL + Databricks**
 - Atuação em prevenção a fraudes, compliance e proteção de dados sensíveis
@@ -299,10 +299,6 @@ kylie = {
 ![snake animation](https://github.com/kyliews/kyliews/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
-
-<details>
-
-</details>
 
 ---
 
