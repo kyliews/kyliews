@@ -7,156 +7,84 @@
   <h1>apolo agradece por ter clicado no meu perfil!</h1>
 </div>
 
-**desenvolvedora full stack | segurança da informação | ia & dados**
+**AI Engineer Intern @iFood | Diretora de Inteligência de Dados @DiversificaDev | Segurança da Informação**
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyliesantosdev/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kyliewilliam.ads@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan_)
-[![portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.canva.com/design/DAGq9C2Q_EE/L7F3f4hmk_EfbWiTlZesfA/view?utm_content=DAGq9C2Q_EE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfc7718f1e3)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kyliecyan)
+[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyliews)
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
 
 </div>
 
-## conheça a kylie
+## 🚀 sobre a kylie
 
-sou uma desenvolvedora full stack com foco em back-end, segurança da informação e dados.
-tenho experiência remunerada com python(frameworks django e api rests) e javascript(com foco em node.js/next.js), além de experiencia com tratativa e ciência de dados, e uma trajetória marcada por projetos de impacto social e tecnologia inclusiva.
+Sou uma desenvolvedora e engenheira de IA focada em construir soluções que resolvem problemas reais através de **arquiteturas agentic**, **RAG (Retrieval-Augmented Generation)** e governança de dados. Acredito na tecnologia como ferramenta de equidade — o que chamo de **"Data for Social Equity"**.
 
-atualmente, faço parte do time da respeita meu nome, uma iniciativa voltada para que pessoas trans e travestis possam registrar denúncias de desrespeito ao nome social, e atuo também como voluntária e mentora na diversificadev, apoiando pessoas iniciantes na área que atuo.
+Atualmente, atuo na fintech do **iFood (iFood Pago)** escalando sistemas de agentes inteligentes. Em paralelo, ocupo a **Direção Institucional e de Inteligência de Dados na DiversificaDev**, onde lidero o **DiversificaData** — um observatório nacional em parceria com a **Fiocruz/ENSP** focado em evidências para políticas públicas e governança ESG.
 
-curso segurança da informação na cesar school e estou me aprofundando em cloud computing (aws). participo ativamente de eventos e comunidades de diversidade na tecnologia.
+- 🎓 Graduanda em **Segurança da Informação** na CESAR School.
+- 🛡️ Especialista em construir APIs seguras e sistemas em conformidade com a LGPD.
+- 🏳️‍⚧️ Mulher trans, nordestina e periférica, construindo espaço na tech com ética e propósito.
+- 👩‍👦 Mãe do Apolo e nerd fascinada por hardware.
 
-tenho facilidade em aprender, sou focada, comunicativa e curiosa por natureza.
+---
 
-sou uma mulher trans, orgulhosa da minha trajetória e do espaço que venho construindo no mercado da tecnologia.
+## 🛠 tech stack
 
-mãe do apolo e nerd que adora se aventurar em hardware.
-
-1º lugar no hackapride 2025 – citi/ufpe
-2º lugar inovapride 2025
-
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
-
-## tech stack
-
-### linguagens de programação
+### IA & dados
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![wordpress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![langgraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![crewai](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=ai&logoColor=white)
+![databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![spark](https://img.shields.io/badge/Spark_SQL-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### frameworks & bibliotecas
+### backend & segurança
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![django rest](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![pyqt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![pyside6](https://img.shields.io/badge/PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### bancos de dados
-![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### ciência de dados & visualização
-![pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![r](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### front-end & design
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ux](https://img.shields.io/badge/UX-FF6F61?style=for-the-badge&logo=adobe-xd&logoColor=white)
-
-### cibersegurança
+![fastapi](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![owasp](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![tls/ssl](https://img.shields.io/badge/TLS/SSL-3DDC84?style=for-the-badge&logo=lets-encrypt&logoColor=white)
 ![lgpd](https://img.shields.io/badge/LGPD-008000?style=for-the-badge&logo=law&logoColor=white)
-![mfa](https://img.shields.io/badge/MFA-FF6C37?style=for-the-badge&logo=authenticator&logoColor=white)
 
 ### cloud & devops
-![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ec2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![s3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![rds](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### ferramentas de desenvolvimento
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+---
+
+## 💼 experiências recentes
+
+### iFood – AI Engineer Intern
+**abr/2026 - atual | híbrido**
+- Evolução de arquiteturas de agentes de IA e refinamento de pipelines de RAG para suporte à decisão em tempo real.
+- No Summer Job (dez/25-mar/26), reduzi processos críticos de **1 hora para menos de 5 minutos** usando orquestração de LLMs.
+
+### DiversificaDev – Diretora Institucional e de Inteligência de Dados
+**abr/2026 - atual | remoto**
+- Liderança estratégica do **DiversificaData** em parceria com a **Fiocruz/ENSP**.
+- Gestão da arquitetura de dados e articulação institucional para impacto social sistêmico.
+
+---
+
+## 🏆 conquistas & projetos
+- 🥇 **1º lugar no HackaPride 2025 (CITi/UFPE)** com o projeto **TRO.IA** (IA ética para prevenção de violência escolar).
+- 🥈 **3º lugar no InovaPride 2025**.
+- 🤖 **TransEmpregos:** Bot agentético que conecta pessoas trans a oportunidades com foco em privacidade.
+- 🧬 **Mentoria HackGirls:** Coordenação técnica de trilhas de IA e IoT para mulheres e meninas na **Fiocruz**.
+
+---
+
+## 📜 certificações de destaque
+- **Microsoft AZ-400:** Designing and Implementing Microsoft DevOps Solutions.
+- **Microsoft AI-900:** Azure AI Fundamentals.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyliews&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyliews&layout=compact&theme=tokyonight" height="170px"/>
+</div>
 
 <img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
-
-## experiências
-
-### respeita meu nome - desenvolvedora full stack
-**out/2025 - atual | remoto**
-
-desenvolvimento e manutenção da plataforma respeita meu nome, voltada para denúncias de desrespeito ao nome social de pessoas trans e travestis.
-
-- implementação de funcionalidades com next.js, typescript e firebase
-- criação de interfaces acessíveis e responsivas com foco em usabilidade e inclusão digital
-- autenticação segura e banco de dados em tempo real
-- colaboração em decisões de arquitetura e segurança da aplicação
-- aplicação de práticas owasp e principios de lgpd
-
-**tecnologias:** next.js, typescript, firebase, javascript, react, ux/ui, acessibilidade digital, owasp, lgpd, autenticação segura, criptografia, cloud computing, apis rest, git, ci/cd
-
-### virada no café - desenvolvedora back end júnior
-**maio/2025 - set/2025 | hibrido**
-
-desenvolvimento da plataforma futuras cientistas, apoiada pela cetene.
-
-- criação e manutenção de apis rest com autenticação, permissões e criptografia aes-256
-- implementação de backups automáticos e integração com ia (gpt-3.5 turbo) para relatórios automatizados
-- análise de dados com recortes interseccionais (genero, raça, região)
-- participação em decisões de arquitetura, ux e entrega continua
-
-**tecnologias:** django, django rest, python, postgresql, ciencia de dados, git, criptografia, ux, ci/cd, html, css, docker
-
-### pajubá tech - desenvolvedora full stack voluntária
-**mar/2024 - out/2024 | remoto**
-
-- criação de componentes web e interação com apis utilizando javascript
-- apoio em analises de dados com foco em equidade e recortes sociais
-- participação ativa em reuniões de equipe, sprints colaborativas e ações comunitárias
-- suporte a iniciativas tecnológicas voltadas para grupos sub-representados
-
-**tecnologias:** postgresql, node.js, javascript, lgpd
-
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
-
-## formação  
-
-- tecnólogo em segurança da informação – cesar school  
-  previsão de conclusão: dez/2027  
-
-- curso de aperfeiçoamento em python (fic – 156h) – senac porto digital  
-  concluído em jan/2024
-
-<img src="https://github.com/kyliews/kyliews/blob/main/src/div.png?raw=true" width="100%" height="11px" />
-
-## fale comigo
-
-vamo trocar uma ideia sobre tecnologia, diversidade, acessibilidade, wordpress, php, pets ou oportunidades?
-
-- github: [kyliews](https://github.com/kyliews)  
-- email: kyliewiliam.ads@gmail.com  
-- linkedin: [kyliesantosdev](https://www.linkedin.com/in/kyliesantosdev/)
